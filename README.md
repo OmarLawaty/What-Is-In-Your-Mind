@@ -3,9 +3,14 @@
 ## the purpose 
 This web page uses APIs to give you an image and some articles of the word that you wrote in the search bar
 
+
+## Inatructions
+To get the NewYork times articles you should open up the `app.js` file and go to the Api request from NYT and put your API Key 
+
+
+## To preview 
+[What's in your mind](https://omarmo123.github.io/What-s-in-your-mind/)
+
+
 ## The copyrites 
 I used nyt articles api and unsplash images api 
-
-##Preview 
-
-[What's in your mind](https://omarmo123.github.io/What-s-in-your-mind/)
