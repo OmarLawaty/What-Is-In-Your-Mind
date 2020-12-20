@@ -33,7 +33,7 @@ form.addEventListener('submit', function (e) {
     }
     const articleRequest = new XMLHttpRequest();
     articleRequest.onload = addArticles;
-    articleRequest.open('GET', `http://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchedForText}&api-key=S5M3XzlqTLG0zCP3NboXn5yiB3tjMyPz`);
+    articleRequest.open('GET', `http://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchedForText}&api-key=<PUT YOUR API KEY HERE>`);
     articleRequest.send();
 
     function addArticles() {
