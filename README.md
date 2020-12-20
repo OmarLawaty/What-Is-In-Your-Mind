@@ -11,6 +11,8 @@ To get the NewYork times articles you should open up the `app.js` file and go to
 ## To preview 
 [What's in your mind](https://omarmo123.github.io/What-s-in-your-mind/)
 
+## Notes
+This project is made by AJAX
 
 ## The copyrites 
 I used nyt articles api and unsplash images api 
