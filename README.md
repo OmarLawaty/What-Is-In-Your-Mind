@@ -4,7 +4,7 @@
 This web page uses APIs to give you an image and some articles of the word that you wrote in the search bar
 
 
-## Inatructions
+## Instructions
 To get the NewYork times articles you should open up the `app.js` file and go to the Api request from NYT and put your API Key 
 
 
