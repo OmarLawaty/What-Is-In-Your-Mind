@@ -9,7 +9,7 @@ To get the NewYork times articles you should open up the `app.js` file and go to
 
 
 ## To preview 
-[What's in your mind](https://what-s-in-your-mind.vercel.app/)
+[What's in your mind](https://what-is-in-your-mind.vercel.app/)
 
 ## Notes
 This project is made by AJAX
